@@ -1,12 +1,12 @@
 # SentimentAnalysisBot
-Sentiment Analysis using tweet streams as data and mapping/graphical visualization.
+Sentiment Analysis using tweet streams as data + mapping/graphical visualization.
 
 CMD Example: 
 
 ![](Screenshots/CMD1.png)
 
 
-CMD + Graphs:
+CMD + Graph:
 
 ![](Screenshots/CMD2.png)
 
