@@ -1,7 +1,7 @@
 # SentimentAnalysisBot
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-### Sentiment Analysis using tweet streams as data + graphical visualization.
+### Sentiment Analysis using tweet streams + graphical visualization.
 
 **•	A script that streams realtime encoded data, parses information, uses translation API to support all languages, and includes a backup system
 
