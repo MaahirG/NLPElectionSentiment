@@ -8,22 +8,22 @@
 •	Analyzes data for sentiment rating through NLP implementation and organizes object for easier analysis and visualization
 
 
-CMD Example: 
+### CMD Example: 
 
 ![](Screenshots/CMD1.png)
 
 
-CMD + Graph:
+### CMD + Graph:
 
 ![](Screenshots/CMD2.png)
 
 
-Map Demo: 
+### Map Demo: 
 
 ![](Screenshots/map_DEMO1.png)
 
 
-Backup:
+### Backup:
 
 ![](Screenshots/backup_FILE.png)
 
